@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Mon Dec 28 23:37:24 2020
-
 @author: lenovo
 """
 
